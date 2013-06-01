@@ -14,11 +14,11 @@ A sample application using MySQL JDBC.
 
 **2.** Create sample mysql DB and table, soemthing like...
 
-```
+```sql
 create database summer_plans;
 ```
 
-```
+```sql
 create table plans (
 	id int not null auto_increment,
 	name varchar(40) not null,
