@@ -12,7 +12,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 /**
- * @author p3pt
+ * @author Borys Niewiadomski
  * @version 0.1 05.31.2013
  * <p>
  * Constructor initializes variables.
