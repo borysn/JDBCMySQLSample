@@ -4,11 +4,11 @@ By: Borys Niewiadomski
 Date: 2013.05.31
 ```
 
-# Info:
+## Info:
 
 A sample application using MySQL JDBC. 
 
-# Instructions:
+## Instructions:
 
 **1.** Install and run MySQL Server, or connect to an already established server.
 
