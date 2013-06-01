@@ -1,9 +1,9 @@
 # JDBCMySQLSample
 
-'''
+''''
 By: **Borys Niewiadomski**
 Date: **2013.05.31**
-'''
+''''
 
 # Info
 
