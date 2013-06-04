@@ -7,7 +7,7 @@ package sleepless.bhn.client;
 import sleepless.bhn.mysql.UseMySQL;
 
 /**
- * @author p3pt
+ * @author Borys Niewiadomski
  * @version 0.1
  */
 public class Client {	
