@@ -1,8 +1,6 @@
 # JDBCMySQLSample
-```
-By: Borys Niewiadomski
-Date: 2013.05.31
-```
+
+Just another weekend project. Play to learn.
 
 ## Info:
 
